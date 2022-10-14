@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+  <project path="device/vivo/2026" name="6765Team/device_vivo_2026.git" remote="github" revision="11" />
+ 
+</manifest>
