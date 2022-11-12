@@ -2,6 +2,6 @@
 <manifest>
 
   <!-- Trees -->
-  <project path="device/vivo/2026" name="6765Team/device_vivo_2026.git" remote="github" revision="11" />
+  <project path="device/vivo/2026" name="6765Team/android_device_vivo_2026.git" remote="github" revision="12-test" />
  
 </manifest>
